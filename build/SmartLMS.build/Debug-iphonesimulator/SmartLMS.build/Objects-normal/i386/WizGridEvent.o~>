@@ -1,0 +1,35 @@
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m: In function 'GridEvent_sortByStartTime':
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:19: error: 'WizGridEvent' undeclared (first use in this function)
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:19: error: (Each undeclared identifier is reported only once
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:19: error: for each function it appears in.)
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:19: error: 'event1' undeclared (first use in this function)
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:19: error: expected expression before ')' token
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:20: error: 'event2' undeclared (first use in this function)
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:20: error: expected expression before ')' token
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:50: warning: control reaches end of non-void function
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m: At top level:
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:55: warning: cannot find interface declaration for 'WizGridEvent'
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:55: error: no declaration of property 'title' found in the interface
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:56: error: no declaration of property 'start' found in the interface
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:57: error: no declaration of property 'end' found in the interface
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:58: error: no declaration of property 'displayDate' found in the interface
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:59: error: no declaration of property 'allDay' found in the interface
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:60: error: no declaration of property 'backgroundColor' found in the interface
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:61: error: no declaration of property 'textColor' found in the interface
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:62: error: no declaration of property 'userInfo' found in the interface
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m: In function '-[WizGridEvent minutesSinceMidnight]':
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:69: error: '_displayDate' undeclared (first use in this function)
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:70: error: '_start' undeclared (first use in this function)
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m: In function '-[WizGridEvent durationInMinutes]':
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:89: error: '_displayDate' undeclared (first use in this function)
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:90: error: '_start' undeclared (first use in this function)
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:91: error: '_end' undeclared (first use in this function)
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m: In function '-[WizGridEvent dealloc]':
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:113: error: request for member 'title' in something not a structure or union
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:114: error: request for member 'start' in something not a structure or union
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:115: error: request for member 'end' in something not a structure or union
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:116: error: request for member 'displayDate' in something not a structure or union
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:117: error: request for member 'backgroundColor' in something not a structure or union
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:118: error: request for member 'textColor' in something not a structure or union
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:119: error: request for member 'userInfo' in something not a structure or union
+/Users/wizmain/XcodeProject/SmartLMS/Classes/WizGridEvent.m:120: error: no super class declared in @interface for 'WizGridEvent'

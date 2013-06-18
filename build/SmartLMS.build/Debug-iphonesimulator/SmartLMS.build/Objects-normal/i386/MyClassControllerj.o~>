@@ -1,0 +1,7 @@
+/Users/wizmain/XcodeProject/SmartLMS/Classes/MyClassControllerj.m:40: warning: cannot find interface declaration for 'MyClassController'
+/Users/wizmain/XcodeProject/SmartLMS/Classes/MyClassControllerj.m: In function '-[MyClassController didReceiveMemoryWarning]':
+/Users/wizmain/XcodeProject/SmartLMS/Classes/MyClassControllerj.m:42: error: no super class declared in @interface for 'MyClassController'
+/Users/wizmain/XcodeProject/SmartLMS/Classes/MyClassControllerj.m: In function '-[MyClassController viewDidUnload]':
+/Users/wizmain/XcodeProject/SmartLMS/Classes/MyClassControllerj.m:48: error: no super class declared in @interface for 'MyClassController'
+/Users/wizmain/XcodeProject/SmartLMS/Classes/MyClassControllerj.m: In function '-[MyClassController dealloc]':
+/Users/wizmain/XcodeProject/SmartLMS/Classes/MyClassControllerj.m:55: error: no super class declared in @interface for 'MyClassController'
